@@ -69,7 +69,7 @@ expense-tracker/
 
 ## Live Demo
 
-https://yourdomain.infinityfreeapp.com
+[https://yourdomain.infinityfreeapp.com](https://smart-finance-system.infinityfreeapp.com/dashboard.php)
 
 ---
 
